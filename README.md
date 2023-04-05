@@ -1,7 +1,9 @@
 
 <div>
-<img src="https://user-images.githubusercontent.com/128707187/230029515-e557960b-4b51-459c-a74d-528f843fd7bb.png" width = "600" height = "600"align=center />
+<img src="https://user-images.githubusercontent.com/128707187/230116906-92cceb61-ac07-4c4e-b10a-5eed0ff968e6.png" width = "800" height = "800"align=center />
 </div>
+
+
 
 #### Hi I’m CatherineXrk
 
