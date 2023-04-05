@@ -17,5 +17,3 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CatherineXrk)](https://github.com/anuraghazra/github-readme-stats)
-
-测试
