@@ -1,8 +1,4 @@
 
-<div>
-<img src="https://user-images.githubusercontent.com/128707187/230116906-92cceb61-ac07-4c4e-b10a-5eed0ff968e6.png" width = "800" height = "800"align=center />
-</div>
-
 
 
 #### Hi I’m CatherineXrk
