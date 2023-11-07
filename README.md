@@ -3,7 +3,7 @@
 
 #### Hi I’m CatherineXrk
 
-* c++选手
+* java c++选手
 * html学习ing
 * 修身养性
 * 追剧爱好者  
