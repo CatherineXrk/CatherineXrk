@@ -3,10 +3,10 @@
 
 #### Hi I’m CatherineXrk
 
-* java c++选手
-* html学习ing
-* 修身养性
-* 追剧爱好者  
+* java cpp
+* 喜欢跑步
+* 追剧爱好者
+* 努力备考研究生(2024.9.4)
 * [CSDN](https://blog.csdn.net/RogersX?spm=1000.2115.3001.5343)  
 
 
