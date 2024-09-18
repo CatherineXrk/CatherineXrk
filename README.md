@@ -11,7 +11,7 @@
 
 ![](https://raw.githubusercontent.com/CatherineXrk/CatherineXrk/main/dist/github-contribution-grid-snake.svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph-CatherineXrk.vercel.app/graph?username=CatherineXrk&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CatherineXrk&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
