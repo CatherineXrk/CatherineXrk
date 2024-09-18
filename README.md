@@ -7,7 +7,9 @@
 * 喜欢跑步
 * 追剧爱好者
 * 努力备考研究生(2024.9.4)
-* [CSDN](https://blog.csdn.net/RogersX?spm=1000.2115.3001.5343)  
+* [CSDN](https://blog.csdn.net/RogersX?spm=1000.2115.3001.5343)
+
+![](https://raw.githubusercontent.com/CatherineXrk/CatherineXrk/main/dist/github-contribution-grid-snake.svg)
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
